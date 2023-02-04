@@ -19,6 +19,6 @@ ciberseguridad y hechar una mano a aquel que lo necesite</b>
 ```python
 def InfoPersonal(name, nickname):
   name = Pol_Perez
-  nickname = Billka
+  nickname = Billka54
   
 
