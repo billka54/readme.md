@@ -1,7 +1,7 @@
 # 
 
 <h1 align="center"> Hola a todos :fist: </h1>
-<b>Soy informático y tengo conocimientos en programación, ciberseguridad y redes. Mi objetivo es hacer un varios dónde ire colgando algunos proyectos
+<b>Soy informático y tengo conocimientos en programación, ciberseguridad y redes. Mi objetivo es hacer varios repositorios dónde ire colgando algunos proyectos
 ya sean de programación o writeups de máquinas activas en HTB. También aprovecharé la oportunidad para subir algunos conocimientos que tengo en el mundo de la 
 ciberseguridad y hechar una mano a aquel que lo necesite</b>
 
