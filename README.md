@@ -1,4 +1,4 @@
-# readme.md
+# 
 
 <h1 align="center"> Hola a todos :fist: </h1>
 <b>Soy informático y tengo conocimientos en programación, ciberseguridad y redes. Mi objetivo es hacer un varios dónde ire colgando algunos proyectos
